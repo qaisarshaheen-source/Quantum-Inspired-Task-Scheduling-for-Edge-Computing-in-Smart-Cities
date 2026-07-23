@@ -67,7 +67,7 @@ QITS scales sub-linearly with task volume, consistently outperforming all baseli
 | 500 | 5.37 J | 8.05 J | 8.38 J | 8.05 J |
 | 1500 | 13.32 J | 17.71 J | 17.71 J | 17.71 J |
  
-![Fig. 4 — Energy consumption per fog node vs. number of tasks](images/Avg%20Latency%20Comparison.png)
+![Fig. 4 — Energy consumption per fog node vs. number of tasks](images/Avg_Latency_Comparison.png)
  
 ### Load Balancing
  
